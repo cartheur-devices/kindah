@@ -1,0 +1,45 @@
+﻿February 2019
+Design for a Brain: The Call of the Search (Call and Answer)
+
+A prototype cybernetic software for an ultrastable system.
+
+05.01.2015
+	1356: Starting this file.
+	1449: The challenge lies in the complexity of the grammar based on inputs, a very Turing-machine thing.
+	1503: What about the grammar database from the Timmy thing?
+	1838: Working in the HalReloaded project creating the runtime method. Keep building!
+18.01.2015
+	1218: Hoping to put a dent in this software project.
+31.07.2015
+	1855: Oh boy, putting a serious dent in this software project.
+10.02.2019
+	1043: Beginning anew here with Kindah, as the bear was finished over Christmas and I need to start to do these things:
+		1. Show the demonstrated value of an intellectual property instrument, such as a patent,
+		2. Find the right kind of investors, based on the rules of cybernetics,
+		3. Find consulting opportunities, based on the cybernetic managment principle,
+		4. Start to shape the system detailed in "Brain of the Firm", subseqeunt to "Design for a Brain" and "The Living Brain" and "Decision and Control".
+		5. Find a way to create (ultra) stability in the matters of finance.
+	1203: I see this project is the first codified attempt at animals. With that now done and a real-live bear in hand, how goes it now?
+-- INSERT SOME REQUISITE VARIETY --
+
+	1245: Giving a hoot and beginnging with how to perform an efficient search, rather than how it will all come out.
+
+	Indexing directory (App testing) is c:\aeonWorkingDirectory\research\literature survey\
+
+	1246: Let's see how this works.
+	1249: Fabulous! It will search the index with Microsoft Office files, since I installed the filter. Now to try to understand what happened and what to do with the results.
+	1255: This will be the base code from where to begin Kindah. The other is archived.
+	1301: All merged up now.
+	1308: The RaptorDB project is found at: https://www.codeproject.com/Articles/190504/RaptorDB
+	1311: Project is cleanly here now. Lunchy break!
+	1320: Patent search origniates at: https://patents.google.com/patent/US8274178B2/en
+	1408: How to create value of the information? The only way is to tinker around in here and let the meaning find you. It is the call of the search, it must respond to your wails.
+	1411: Let the phlagrant, puffing, phishing, pfun begin! Tap is incredible!
+	1603: Refactored the shit out of the project, adding in my preferred logger. Now we are on the road.
+	1618: Logging sorted, more or less. Getting tired, having coded straight through this afternoon.
+	1619: Question is: what's next?
+	1641: More code cleaning and clarification. Ready for serious testing.
+	1643: Created ds1 comprised of my diaries. How to shape some fucking data is the name of the game. Only parses *.doc files at the moment.
+	1705: Answering that question would be too much implementation and deep into filters in Microsoft and FoxIt. Get back to the focus and only use *.doc files.
+	1736: Start next session by reading here: https://www.codeproject.com/Articles/316816/RaptorDB-The-Key-Value-Store-V2 and taking it to the limit. Searchable DB is something you really need!
+
